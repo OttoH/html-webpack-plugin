@@ -1,9 +1,9 @@
 {
-  "name": "html-webpack-plugin",
+  "name": "html-webpack-plugin-dev",
   "version": "3.2.0",
   "license": "MIT",
   "description": "Simplifies creation of HTML files to serve your webpack bundles",
-  "author": "Charles Blaxland <charles.blaxland@gmail.com> (https://github.com/ampedandwired)",
+  "author": "George Duan",
   "main": "index.js",
   "files": [
     "lib/",
@@ -64,8 +64,7 @@
     "html-webpack-plugin"
   ],
   "bugs": "https://github.com/jantimon/html-webpack-plugin/issues",
-  "homepage": "https://github.com/jantimon/html-webpack-plugin",
-  "repository": "https://github.com/jantimon/html-webpack-plugin.git",
+  "repository": "https://github.com/cctuan/html-webpack-plugin.git",
   "engines": {
     "node": ">=6.9"
   },
